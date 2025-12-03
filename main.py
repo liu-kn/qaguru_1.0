@@ -1,2 +1,2 @@
-name = "Люба"
+name = "PyCharm"
 print(f"Привет, {name}!")
